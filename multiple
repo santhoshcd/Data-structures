@@ -1,3 +1,0 @@
-def multiple(a, b)
-  a * b
-end
