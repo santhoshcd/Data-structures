@@ -1,3 +1,3 @@
 def reverse(a)
- a.to_s.reverse
+ (a.to_s.reverse)
 end
