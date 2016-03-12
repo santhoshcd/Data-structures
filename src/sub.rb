@@ -1,3 +1,3 @@
 def sub(a, b)
-  a - b
+  return a - b
 end
